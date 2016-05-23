@@ -1,5 +1,5 @@
 # RBStoryboardLink
-
+Fork from https://github.com/rob-brown/RBStoryboardLink
 # DEPRECATED
 
 With Apple's recent release of iOS 9 and Xcode 7, linking storyboards has become a natively-supported workflow. I don't know, but I certainly hope the community's large interest in `RBStoryboardLink` played a role in this change to Interface Builder. I appreciate all the ideas and contributions that have come from the community. `RBStoryboardLink` started its life simply as a proof-of-concept, and it became far more popular than imagined. 
