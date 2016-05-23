@@ -279,7 +279,7 @@
     return [self.scene prefersStatusBarHidden];
 }
 
-- (BOOL)preferredStatusBarStyle{
+- (UIStatusBarStyle)preferredStatusBarStyle{
     return [self.scene preferredStatusBarStyle];
 }
 
