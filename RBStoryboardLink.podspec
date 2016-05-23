@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name         = 'RBStoryboardLink'
-  s.version      = '0.1.4'
+  s.version      = '0.1.5'
   s.summary      = 'RBStoryboardLink Fork'
   s.homepage     = 'https://github.com/OnelongX/RBStoryboardLink-fork'
   s.license      = {
